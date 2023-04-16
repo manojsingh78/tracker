@@ -1,0 +1,88 @@
+body{
+    background-color: rgb(39, 2, 44);
+    color: antiquewhite;
+}
+
+.logo{
+
+    border:5px ;
+    width: 1.5cm;
+    height: 1.5cm;
+    margin: 3px;
+    display: inline-block;
+}
+h3{
+    margin: 0%;
+}
+.mainlogo{
+    width: 1.5cm;
+}
+
+.nav{
+    border:5px ;
+    width: 15cm;
+    display:inline-block ;
+    position: absolute;
+    left: 30%;
+    padding-left:34px ;
+    align-items: center;
+   
+    
+    
+}
+
+.login{
+    border: ;
+    width: 5cm;
+    position: relative;
+    float: right;
+     margin-left: 3px ;
+     margin-top: 3px;
+    
+}
+ul li {
+    float: left;
+ 
+ padding-left: 10px;
+ text-decoration: none;
+  
+    list-style-type: none;
+    font-size: 19px;   
+}
+#clik{
+      margin: 2px;
+      
+}
+a{
+    text-decoration: none;
+    color: beige;
+}
+.name{
+    font-size: 45px ;
+}
+.contant {
+    border:  ;
+  font-weight: 10%;
+  color: rgb(#f17781, green, blue);
+    width: 12cm;
+    height: 10cm;
+    margin-top: 142px;
+    margin-left: 116px;
+    display: inline-block;
+}
+.about{
+    font-size: 18px;
+}
+.discovery
+{
+    width: 3cm;
+    margin-left: 32%;
+  border-radius: 20px;
+  background-color: orangered;
+   font-weight: 1px;
+   color: antiquewhite;
+   outline-style: none;
+}
+.image{
+    float: right;
+}
